@@ -1,7 +1,7 @@
 astroid==2.2.5
 certifi==2019.3.9
 chardet==3.0.4
-dnspython==1.16.0
+dnspython==2.6.1
 entrypoints==0.3
 flake8==3.7.7
 idna==2.8
